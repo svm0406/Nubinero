@@ -25,7 +25,7 @@ Nubinero Technologies Pvt. Ltd. is a fictional B2B SaaS company based in Pune. I
 The phases combine into a single engagement report.
 ### Phase 1: Client Profile
 This is the foundation of the document. Before any control is assessed a consultant has to understand the case, what needs to be protected, and who the client is. The reasons for the client company to apply for a certification, their security posture and the overall scope is analysed as well. <br>
-**You can read it here**: 
+**You can read it here**: [View PDF](Phase1_clientpf.pdf)
 #### What it contains
 - **Client**: document control, snapshot, business context, stakeholders and technology and data landscape.
 - **Why and where they sit:** The engagement background, the security posture labeled as reported by the client, the regulatory and contractual drivers
@@ -48,3 +48,5 @@ This is the foundation of the document. Before any control is assessed a consult
         ├── titlepage.tex
         └── sectiononetwo.tex
 ```
+## Author
+Shravani.V.Mahale

@@ -9,7 +9,7 @@
 Nubinero Technologies Pvt. Ltd., it's people, and it's events are **fictional**. Any resemblance found to real companies, people, and events is a coincidence. Nothing here is a legal advice. 
 
 ### The scenario
-Nubinero Technologies Pvt. Ltd. is a fictional B2B SaaS company based in Pune. It operates in automating account payables(invoice captures, approvals, vendor payments, reconciliation) and offers an embedded analytics module that connects to customer's ERP, bank feeds and warehouses. The enterprise prospects now require ISO/SAE 27001 Certification and a recent phishing incident has worried the board. The engagament assesses where Nubinero stands, identfies the gaps, and builds a roadmap towards the ISO/SAE 27001 Certification. 
+Nubinero Technologies Pvt. Ltd. is a fictional B2B SaaS company based in Pune. It operates in automating account payables(invoice captures, approvals, vendor payments, reconciliation) and offers an embedded analytics module that connects to customer's ERP, bank feeds and warehouses. The enterprise prospects now require ISO/IEC 27001 Certification and a recent phishing incident has worried the board. The engagament assesses where Nubinero stands, identfies the gaps, and builds a roadmap towards the ISO/IEC 27001 Certification. 
 
 ### Project Status
 | Phase | Deliverable | Status |

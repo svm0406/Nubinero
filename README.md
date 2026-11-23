@@ -22,6 +22,7 @@ Nubinero Technologies Pvt. Ltd. is a fictional B2B SaaS company based in Pune. I
 | 6 | Report and executive summary | Planned |
 | 7 | Risk register and treatment plan | Planned |
 | 8 | Statement of Applicability and final integration | Planned |
+
 The phases combine into a single engagement report.
 ### Phase 1: Client Profile
 This is the foundation of the document. Before any control is assessed a consultant has to understand the case, what needs to be protected, and who the client is. The reasons for the client company to apply for a certification, their security posture and the overall scope is analysed as well. <br>
